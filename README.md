@@ -23,7 +23,8 @@
 
 ### Work Experience
 
-* My previous roles were involved as a Submarine Warfare Officer, where I was in charge of safe navigation and daily operation of the submarine, as well as supervising the nuclear power plant. I developed skills in data-driven decision making in high stakes environments, mitigating and communicating risk with leadership daily to accomplish the mission.
+#### Submarine Warfare Officer - USN
+* My previous roles included serving in the US Navy's Nuclear Propulsion program, where I was in charge of safe navigation and daily operation of the submarine, as well as supervising the nuclear power plant. I developed skills in data-driven decision making in high stakes environments, mitigating and communicating risk with leadership daily to accomplish the mission.
 
 * I also acted as a Program Manager for both the Reactor Control Division and Tactical Systems divisions during my time, leading groups of highly motivated individuals in day-to-day operations in adhering to rigorous operational standards. I led other endeavors to include planning a torpedo exercise and administrating acoustic data collection, briefing the teams on milestones and deliverables to ensure these were executed with precision and success. 
 
